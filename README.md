@@ -42,8 +42,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## steps of creating this application
-1-> created auth form to signin & singup  
-    1: created input & button component for reuse
+1:created auth form to signin & singup  
+-> created input & button component for reuse
 
 
 
