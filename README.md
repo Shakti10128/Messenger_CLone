@@ -41,15 +41,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-
-<!-- steps of creating this application -->
+## steps of creating this application
 1-> created auth form to signin & singup
     -> created input & button component for reuse
 
 
 
 
-<!-- package installed -->
+## package installed
 1-> clsx
 2-> react-hook-form
 3-> react-icons
